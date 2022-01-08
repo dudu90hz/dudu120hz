@@ -1,4 +1,4 @@
-### Oi! hehe
+### Oi!  
 
 - 🤯 Dev iniciante
 - 🌱 Aprendendo Python
