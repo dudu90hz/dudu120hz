@@ -13,7 +13,5 @@
 <div> 
   <a href="https://instagram.com/dudu120hz" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
  	<a href="https://mobile.twitter.com/dudu120hz" target="_blank"> <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the- badge & logo = twitter & logoColor = white"target =" _ blank "> </a>
- 
-  ![Animação de cobra] (https://github.com/dudu120hz/dudu120hz/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
