@@ -1,7 +1,7 @@
-### Oi!  
+### "Hello World!"  
 
 - 🤯 Dev iniciante
-- 🌱 Aprendendo Python
+- 🌱 Aprendendo Python e C#
 
 <div align = "center">
   <a href="https://github.com/dudu120hz">
