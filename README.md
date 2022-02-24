@@ -1,6 +1,6 @@
 ### "Hello World!"  
 - 🤯 Dev iniciante;
-- 📈 Estudando e C#;
+- 📈 Estudando C#;
 
 <div align = "center">
   <a href="https://github.com/dudu120hz">
